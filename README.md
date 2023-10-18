@@ -3,8 +3,8 @@
 #### Technical Skills: Excel, SQL (including Azure), R Statistics, Power BI
 
 ## Education
-- Postgraduate Diploma, Public Health, Pass with merit | The University of Texas at Dallas (_June 2013_)								       		
-- Postgraduate Certificate, Health Improvement & Health Promotion	| The University of Texas at Dallas (_June 2011_)	 			        		
+- Postgraduate Diploma, Public Health, Pass with merit | Staffordshire University (_June 2013_)								       		
+- Postgraduate Certificate, Health Improvement & Health Promotion	| The Robert Gordon University (_June 2011_)	 			        		
 - BSc Economics | The University of Hull (_June 1996_)
 
 ## Work Experience
