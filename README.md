@@ -5,7 +5,7 @@
 ## Education
 - Postgraduate Diploma, Public Health, Pass with merit | The University of Texas at Dallas (_June 2013_)								       		
 - Postgraduate Certificate, Health Improvement & Health Promotion	| The University of Texas at Dallas (_June 2011_)	 			        		
-- B.S., Economics | The University of Hull (_June 1996_)
+- BSc Economics | The University of Hull (_June 1996_)
 
 ## Work Experience
 **Prescribing Intelligence Analyst @ MORPh Conusltancy (_September 2016 - Present_)**
