@@ -27,3 +27,5 @@ I have led on analysis of potential savings, development of dashboards to share 
 
 ## Projects
 ### Power BI Prescribing Analysis
+- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- [Test html](/Test.html)
